@@ -1,2 +1,2 @@
 # PlutoBO2-Autobalance
-Turn autobalance on plutonium blackop2
+ Autobalance for plutonium blackop2
