@@ -5,7 +5,7 @@
 
 init()
 {
-	setdvar("scr_teambalance", "1"); // Hardcode autobalce for the moment
+	setdvar("scr_teambalance", "1"); // Hardcode autobalance for the moment
 	precacheshader("mpflag_spectator");
 	game["strings"]["autobalance"] = &"MP_AUTOBALANCE_NOW";
 	precachestring(&"MP_AUTOBALANCE_NOW");
